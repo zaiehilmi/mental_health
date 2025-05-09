@@ -1,0 +1,46 @@
+titles:
+  one_on_one_session: Sesi Individu
+  plan_expired: Pelan telah luput
+  upcoming_session: Sesi akan datang
+  navigations:
+    wellness_hub: Pusat Kesejahteraan
+
+buttons:
+  reschedule: Jadual semula
+  book_now: Tempah sekarang
+  buy_more: Beli
+  join_now: Sertai sekarang
+
+labels:
+  journal: Jurnal
+  library: Pustaka
+  feelings:
+    happy: Gembira
+    calm: Tenang
+    relax: Santai
+    angry: Marah
+  sessions_filter:
+    all: Semua
+    this_week: Minggu ini
+    this_month: Bulan ini
+    past: Sudah berlalu
+  hub_filter:
+    all: Semua
+    relationship: Hubungan
+    self_care: Penjagaan diri
+    fitness: Kecergasan
+    mindfulness: Kesedaran
+  loading: Memuatkan...
+
+greetings:
+  morning: Selamat Pagi
+  afternoon: Selamat Tengahari
+  evening: Selamat Petang
+  feeling_today: Apa perasaan anda hari ini?
+
+quotes:
+  open_up_feeling: Mari kita buka hati kepada perkara yang paling penting
+  quote_1: Lebih baik menakluk diri sendiri daripada memenangi seribu pertempuran
+
+messages:
+  get_back_chat_access: Dapatkan semula akses sembang dan kredit sesi

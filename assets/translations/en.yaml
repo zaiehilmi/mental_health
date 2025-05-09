@@ -1,0 +1,46 @@
+titles:
+  one_on_one_session: 1 on 1 Session
+  plan_expired: Plan Expired
+  upcoming_session: Upcoming Session
+  navigations:
+    wellness_hub: Wellness Hub
+
+buttons:
+  resechedule: Resechedule
+  book_now: Book Now
+  buy_more: Buy More
+  join_now: Join Now
+
+labels:
+  journal: Journal
+  library: Library
+  feelings:
+    happy: Happy
+    calm: Calm
+    relax: Relax
+    angry: Angry
+  sessions_filter:
+    all: All sessions
+    this_week: This week
+    this_month: This month
+    past: Past sessions
+  hub_filter:
+    all: All
+    relationship: Relationship
+    self_care: Self Care
+    fitness: Fitness
+    mindfulness: Mindfulness
+  loading: Loading...
+
+greetings:
+  morning: Good Morning
+  afternoon: Good Afternoon
+  evening: Good Evening
+  feeling_today: How are you feeling today?
+
+quotes:
+  open_up_feeling: Let’s open up to the things that matter the most
+  quote_1: It is better to conquer yourself than to win a thousand battles
+
+messages:
+  get_back_chat_access: Get back chat access and session credits

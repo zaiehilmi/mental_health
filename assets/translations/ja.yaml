@@ -1,0 +1,46 @@
+titles:
+  one_on_one_session: 個別セッション
+  plan_expired: プランの有効期限が切れました
+  upcoming_session: 今後のセッション
+  navigations:
+    wellness_hub: ウェルネスハブ
+
+buttons:
+  reschedule: 日程を変更
+  book_now: 今すぐ予約
+  buy_more: さらに購入
+  join_now: 今すぐ参加
+
+labels:
+  journal: ジャーナル
+  library: ライブラリ
+  feelings:
+    happy: 嬉しい
+    calm: 穏やか
+    relax: リラックス
+    angry: 怒っている
+  sessions_filter:
+    all: すべてのセッション
+    this_week: 今週
+    this_month: 今月
+    past: 過去のセッション
+  hub_filter:
+    all: すべて
+    relationship: 人間関係
+    self_care: セルフケア
+    fitness: フィットネス
+    mindfulness: マインドフルネス
+  loading: ローディング...
+
+greetings:
+  morning: おはようございます
+  afternoon: こんにちは
+  evening: こんばんは
+  feeling_today: 今日の気分はいかがですか？
+
+quotes:
+  open_up_feeling: 最も大切なことに心を開きましょう
+  quote_1: 千の戦いに勝つよりも、自分自身に打ち勝つ方が良い
+
+messages:
+  get_back_chat_access: チャットのアクセスとセッションクレジットを再取得する
