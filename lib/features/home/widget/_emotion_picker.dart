@@ -2,7 +2,6 @@ import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:flutter_svg/svg.dart';
-
 import 'package:schedule_management/common/utils/extensions/buildcontext_extension.dart';
 
 class EmotionPicker extends HookWidget {
@@ -41,10 +40,9 @@ class EmotionItem extends HookWidget {
 
   @override
   Widget build(BuildContext context) {
-    return SizedBox(
-      height: 84,
-      width: 60,
+    return IntrinsicWidth(
       child: Column(
+        spacing: 8,
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
           Container(

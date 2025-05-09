@@ -1,7 +1,15 @@
 <!-- This README is prepared by zaie. do contact me if need help (zaiehilmi@gmail.com) 
 based on template by https://www.figma.com/@sushobhan
 -->
-# schedule_management Template
+# Mental Health Template
+
+> This project UI is following the UI from [Figma: Mental Health](https://www.figma.com/community/file/1092800823682962144)
+
+## UI Showcase
+
+| ![home-ja.png](assets/documentation/home-ja.png) | ![home.png](assets/documentation/home.png) | ![session.png](assets/documentation/session.png) | ![wellness hub.png](assets/documentation/wellness%20hub.png) |
+|--------------------------------------------------|--------------------------------------------|--------------------------------------------------|--------------------------------------------------------------|
+
 
 ## Getting Started
 
